@@ -1,10 +1,10 @@
-🌫️ India Air Quality Index Dashboard Project
+🌫️ **India Air Quality Index Dashboard Project**
 
-📌 Overview
+📌 **Overview**
 
 This project presents a comprehensive Air Quality Index (AQI) Dashboard for major Indian cities—Delhi, Jaipur, Lucknow, Mumbai—by analyzing and visualizing air pollution data from 2022 to 2024. It combines real-time AQI values with seasonal and city-based breakdowns to uncover patterns and insights that can aid citizens, researchers, and policymakers.
 
-📊 Key Features
+📊 **Key Features**
 
 ✅ Dashboard Highlights
 
@@ -23,7 +23,7 @@ Pie Chart: Distribution of AQI Categories (Moderate, Satisfactory, Poor, etc.)
 Interactive Filters: City, Season, Date Range
 
 
-📍 Cities Covered
+📍 **Cities Covered**
 
 Delhi
 
@@ -33,7 +33,7 @@ Lucknow
 
 Mumbai
 
-📁 Project Structure
+📁 **Project Structure**
 
 Air-Quality-Index/
  1. README.md                      
@@ -48,27 +48,24 @@ Air-Quality-Index/
  5. notebook/
     a. cleaned_aqi_data-checkpoints.ipynb                          
 
-📌 Data Sources
-
+📌 **Data Sources**
 
 CPCB Open AQI Data
 
 VisualCrossing Weather API
 
-[Indian Meteorological Department (IMD)] (for seasonal classification)
+🔧 **Tools Used**
 
-🔧 Tools Used
+Power BI (Dashboard creation) 
 
-Power BI (Dashboard creation & filtering)
-
-Python (Data cleaning, merging, feature engineering)
+Python (Data cleaning, merging)
 
 Pandas, NumPy, Regex, Matplotlib
 
 Jupyter Notebook (for EDA)
 
 
-💡 Insights Uncovered
+💡 **Insights Uncovered**
 
 Winter consistently shows the worst AQI levels, especially in Delhi and Lucknow
 
@@ -78,11 +75,8 @@ Seasonality plays a major role in air pollution, with monsoon showing slight imp
 
 AQI levels are improving slightly post-2023 in some cities due to policy actions and awareness
 
-📈 Example Visuals
 
-
-
-🚀 How to Use
+🚀** How to Use**
 
 Clone or download this repository
 
@@ -92,13 +86,13 @@ Apply filters by City, Season, Date
 
 View insights and download visual PDF if needed
 
-🙋‍♀️ Author
+🙋‍♀️ **Author**
 
 Yukta Bansal
 Computer Science Student 
 Passionate about solving real-world issues through clean data and clear dashboards
 
-📮 Feedback
+📮 **Feedback**
 
 If you liked this dashboard or want to collaborate on similar environmental projects, feel free to connect or suggest improvements!
 
